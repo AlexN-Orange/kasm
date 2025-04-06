@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Kasm Technologies',
     description: 'My own workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://github.com/nandonov/personal-kasm-registry',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
